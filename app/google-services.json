@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255904079229",
+    "project_id": "rise-75efd",
+    "storage_bucket": "rise-75efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255904079229:android:1a4603346e4c49937bc014",
+        "android_client_info": {
+          "package_name": "com.example.try1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Dr3vMvSFPrIl4lmXEDzKMvGYAeYFMQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
